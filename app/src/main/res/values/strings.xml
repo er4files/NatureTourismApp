@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Nature Tourism</string>
+
+    <string name="natures_name">Nama Tempat Wisata</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="search">Cari</string>
+    <string name="namalengkap">Rahmad Era Sugiarto</string>
+    <string name="email">A129D4KY4158@bangkit.academy</string>
+
+
+
+
+    <string-array name="data_name">
+        <item>Pura Besakih</item>
+        <item>Kepulauan Derawan</item>
+        <item>Taman Nasional Way Kambas</item>
+        <item>Pantai Parai Tenggiri (Bangka Belitung)</item>
+        <item>Nusa Dua (Bali)</item>
+        <item>Gunung Rinjani (Lombok, NTB)</item>
+        <item>Danau Toba (Sumatera Utara)</item>
+        <item>Nusa Penida (Bali)</item>
+        <item>Taman Laut Bunaken (Sulawesi Utara)</item>
+        <item>Wakatobi (Sulawesi Tenggara)</item>
+        <item>Kepulauan Raja Ampat (Papua Barat)</item>
+        <item>Gunung Bromo (Jawa Timur)</item>
+        <item>Pulau Komodo (Nusa Tenggara Timur)</item>
+        <item>Candi Borobudur (Jawa Tengah)</item>
+        <item>Tana Toraja (Sulawesi Selatan)</item>
+        <item>Gili Trawangan (NTB)</item>
+        <item>Goa Gong (Jawa Timur)</item>
+        <item>Danau Kelimutu (NTT)</item>
+        <item>Ngarai Sianok (Sumatra Barat)</item>
+        <item>Kawah Ijen (Jawa Timur)</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Pura Agung Besakih adalah pura terbesar dan termegah di Bali. Pulau ini terletak di Desa Besakih, Kecamatan Rendang, berada di lereng sebelah barat daya Gunung Agung, gunung tertinggi di Bali. Pura Agung Besakih memiliki gaya arsitektur yang mengagumkan khas Bali dan berada di ketinggian 915 kaki di kaki Gunung Agung dengan memukau. Bangunan yang dibangun sejak abad ke-10 Masehi ini menjadi pusat kegiatan spiritual Hindu Dharma di Pulau Dewata. Dengan segala fitur yang dimiliki Pura Besakih, tidak aneh jika situs ini ditetapkan sebagai Situs Warisan Budaya UNESCO sejak selamat dari erupsi Gunung Agung pada tahun 1963. Akses dari Kota Denpasar untuk mencapai tempat ini berjarak sekitar 25 km ke arah utara dari Kota Semarapura, Kabupaten Klungkung. Perjalanan menuju Pura Besakih melewati panorama Bukit Jambul yang juga merupakan salah satu obyek dan daya tarik wisata Kabupaten Karangasem.</item>
+        <item>Kepulauan Derawan adalah sebuah kepulauan yang berada di Kabupaten Berau, Kalimantan Timur. Di kepulauan ini terdapat sejumlah objek wisata bahari menawan, salah satunya Taman Bawah Laut yang diminati wisatawan mancanegara terutama para penyelam kelas dunia. Saat pertama kali menginjakan kaki disini, jangan heran bila Toppers akan disambut dengan hamparan pasir putih yang mempesona. Warna airnya yang sangat jernih juga akan bikin kamu betah untuk berlama-lama di kawasan ini. Panorama alam ini menjadi sajian liburan utama bagi wisatawan dalam berkunjung Faktor lain yang menjadi alasan mengapa kawasan ini wajib untuk dikunjungi, yaitu ekosistem bawah laut dan keasrian alam sekitarnya benar-benar masih sangat terjaga. Wajar jika banyak wisatawan yang datang berbondong-bondong ke tempat ini, baik wisatawan lokal maupun wisatawan internasional. Pada tahun 2005 pemerintah telah mencoba mendaftarkan kawasan wisata ini ke UNESCO sebagai salah satu situs warisan dunia, bahkan sampai mendapat julukan sebagai “Pristine Island”.</item>
+        <item>Taman Nasional Way Kambas (TNKW) Lampung ditetapkan sebagai kawasan Taman Warisan ASEAN (ASEAN Heritage Park) yang ke-36, pada tanggal 25 Juli 2016. Artinya, Taman Nasional Way Kambas ini menjadi Taman Warisan ASEAN ke-4 di Indonesia. Terletak di ujung selatan Sumatera atau 110 km dari Bandar Lampung, TNKW merupakan salah satu Taman Nasional pertama dan tertua di Indonesia. Taman Nasional ini menempati 1.300 km persegi dari hutan dataran rendah pantai sekitar Sungai Way Kambas di pantai timur Provinsi Lampung. TNWK dikenal dengan konservasi gajah, karena selain menjadi tempat perlindungan bagi Gajah Sumatera yang berjumlah sekitar 200, taman nasional ini juga dikenal sebagai tempat latihan mereka. Way Kambas didirikan oleh pemerintah Belanda pada tahun 1937 sampai sekarang masih terjaga sebagai Taman Nasional. Selain konservasi gajah, di sini juga terdapat konservasi badak sumatera dan ada fasilitas Rhino Sanctuary. Sayangnya untuk bisa dapat melihat Badak Sumatera ini, pengunjung harus punya izin khusus sebelumnya. Pengunjung atau wisatawan biasa tidak bisa melihat penangkaran alami badak sumatera
+
+ ini. Selain itu, TNWK juga dikenal dengan keindahan alamnya, yang terdiri dari hutan, sungai, dan lahan basah. Tempat ini sangat cocok bagi para pecinta alam yang suka dengan wisata petualangan.</item>
+        <item>Pantai Parai Tenggiri terletak di Desa Padang Kandis, Kecamatan Sungailiat, Bangka. Pantai ini adalah salah satu pantai terbaik di Bangka Belitung. Keindahan pantai ini sudah dikenal oleh masyarakat Bangka Belitung sendiri. Pantai ini memiliki pasir yang sangat halus dan putih. Kejernihan airnya sangat cocok untuk bersnorkeling atau berenang. Pantai ini juga tidak begitu ramai, karena itu pantai ini cocok untuk anda yang ingin berlibur bersama keluarga. Pantai Parai Tenggiri memiliki pemandangan yang sangat indah saat matahari terbenam.</item>
+        <item>Nusa Dua adalah sebuah kawasan pariwisata di selatan Pulau Bali, Indonesia. Terletak di Kecamatan Kuta Selatan, Kabupaten Badung. Kawasan ini terkenal akan pantai-pantainya yang berpasir putih dan terdapat beberapa resor mewah. Terdapat puluhan resor internasional di kawasan Nusa Dua. Kawasan ini juga menjadi tempat diselenggarakannya berbagai acara internasional, seperti pertemuan tahunan Badan Usaha Milik Negara dan Konferensi Asia-Pasifik 2013.</item>
+        <item>Gunung Rinjani adalah gunung berapi aktif yang terletak di Pulau Lombok, Nusa Tenggara Barat, Indonesia. Gunung Rinjani merupakan gunung tertinggi kedua di Indonesia (setelah Gunung Kerinci di Sumatera) dengan ketinggian 3.726 mdpl. Gunung ini menjadi salah satu tujuan pendakian favorit di Indonesia. Taman Nasional Gunung Rinjani merupakan tempat konservasi berbagai spesies flora dan fauna langka. Kawasan ini juga memiliki daya tarik lain berupa Danau Segara Anak yang terletak di kawah Gunung Rinjani.</item>
+        <item>Danau Toba adalah sebuah danau vulkanik dengan ukuran panjang 100 km dan lebar 30 km, terletak di Provinsi Sumatera Utara, Indonesia. Danau ini adalah danau terbesar di Indonesia dan Asia Tenggara serta danau vulkanik terbesar di dunia. Pulau Samosir yang ada di tengah danau merupakan pulau di sebuah pulau dan merupakan pulau terbesar di sebuah pulau di dunia. Danau Toba terbentuk oleh letusan gunung api yang terjadi sekitar 75.000 tahun yang lalu.</item>
+        <item>Nusa Penida adalah sebuah pulau yang terletak di sebelah tenggara Bali yang dipisahkan oleh Selat Badung. Pulau ini terkenal akan keindahan alamnya yang masih sangat alami dan belum banyak tersentuh oleh wisatawan. Beberapa objek wisata populer di Nusa Penida antara lain Pantai Kelingking, Pantai Crystal Bay, dan Gua Goa Giri Putri. Pulau ini juga merupakan habitat bagi banyak spesies burung dan satwa langka.</item>
+        <item>Taman Laut Bunaken adalah sebuah taman laut yang terletak di utara Pulau Sulawesi, Indonesia, tepatnya di wilayah Kabupaten Manado. Taman ini dikenal akan keindahan bawah lautnya yang kaya akan keanekaragaman hayati laut. Bunaken merupakan salah satu destinasi diving terbaik di dunia. Di sini terdapat lebih dari 70% spesies ikan di dunia. Selain itu, taman ini juga terkenal akan terumbu karangnya yang indah dan terjaga dengan baik.</item>
+        <item>Wakatobi adalah sebuah kepulauan yang terletak di tenggara Sulawesi, Indonesia. Nama Wakatobi sendiri merupakan singkatan dari empat pulau utamanya, yaitu Wangi-Wangi, Kaledupa, Tomia, dan Binongko. Kepulauan ini terkenal akan keindahan bawah lautnya yang kaya akan keanekaragaman hayati laut. Wakatobi merupakan salah satu destinasi diving terbaik di Indonesia bahkan di dunia.</item>
+        <item>Kepulauan Raja Ampat adalah sebuah kepulauan yang terletak di Papua Barat, Indonesia. Kepulauan ini terkenal akan keindahan bawah lautnya yang luar biasa. Raja Ampat merupakan salah satu destinasi diving terbaik di dunia dengan keanekaragaman hayati laut yang sangat tinggi. Di sini terdapat lebih dari 1.500 spesies ikan dan 550 spesies karang. Selain itu, keindahan alam daratnya juga tak kalah menakjubkan dengan pantai-pantai berpasir putih dan bukit-bukit hijau.</item>
+        <item>Gunung Bromo adalah sebuah gunung berapi yang terletak di Jawa Timur, Indonesia. Gunung ini merupakan salah satu destinasi wisata populer di Indonesia. Pemandangan kawah Bromo yang indah dengan latar belakang Gunung Semeru dan padang pasirnya yang luas membuatnya menjadi salah satu tempat wisata yang wajib dikunjungi di Jawa Timur.</item>
+        <item>Pulau Komodo adalah sebuah pulau yang terletak di Nusa Tenggara Timur, Indonesia. Pulau ini terkenal akan keberadaan hewan purba yang bernama Komodo, yang merupakan jenis kadal terbesar di dunia. Pulau Komodo merupakan salah satu destinasi wisata yang unik dan menarik di Indonesia. Selain bertemu dengan Komodo, pengunjung juga dapat menikmati keindahan alam pulau ini seperti pantai-pantai yang indah dan bawah laut yang kaya akan keanekaragaman hayati laut.</item>
+        <item>Candi Borobudur adalah sebuah candi Buddha yang terletak di Magelang, Jawa Tengah, Indonesia. Candi ini merupakan salah satu candi terbesar di dunia dan merupakan salah satu tujuan wisata populer di Indonesia. Candi Borobudur terkenal akan relief-reliefnya yang indah dan patung Buddha yang besar. Candi ini juga menjadi salah satu situs warisan dunia UNESCO.</item>
+        <item>Tana Toraja adalah sebuah daerah yang terletak di Sulawesi Selatan, Indonesia. Daerah ini ter
+
+kenal akan keindahan alamnya yang menakjubkan serta kebudayaan dan tradisinya yang unik. Salah satu hal yang menjadi daya tarik utama Tana Toraja adalah upacara adat kematian yang disebut Rambu Solo. Selain itu, Tana Toraja juga memiliki pemandangan alam yang sangat indah seperti pegunungan, lembah, dan sungai.</item>
+        <item>Gili Trawangan adalah sebuah pulau kecil yang terletak di Lombok Utara, Nusa Tenggara Barat, Indonesia. Pulau ini merupakan salah satu destinasi wisata populer di Indonesia. Gili Trawangan terkenal akan pantainya yang indah dengan pasir putih dan air laut yang jernih. Pulau ini juga merupakan tempat yang tepat untuk melakukan aktivitas snorkeling dan diving.</item>
+        <item>Goa Gong adalah sebuah goa yang terletak di Pacitan, Jawa Timur, Indonesia. Goa ini terkenal akan keindahan stalaktit dan stalakmitnya yang unik dan menakjubkan. Goa Gong merupakan salah satu goa terbesar dan terindah di Indonesia. Di dalam goa ini terdapat sebuah danau bawah tanah yang sangat indah.</item>
+        <item>Danau Kelimutu adalah sebuah danau vulkanik yang terletak di Flores, Nusa Tenggara Timur, Indonesia. Danau ini terkenal akan warna airnya yang berubah-ubah. Terdapat tiga danau di kawah Kelimutu yang masing-masing memiliki warna yang berbeda-beda. Warna-warna tersebut sering berubah-ubah sehingga menambah keunikan danau ini.</item>
+        <item>Ngarai Sianok adalah sebuah ngarai yang terletak di Bukittinggi, Sumatra Barat, Indonesia. Ngarai ini terkenal akan keindahan alamnya yang spektakuler. Ngarai Sianok memiliki pemandangan yang sangat indah dengan tebing-tebing yang curam dan hijau. Salah satu cara terbaik untuk menikmati keindahan alam Ngarai Sianok adalah dengan trekking.</item>
+        <item>Kawah Ijen adalah sebuah kawah vulkanik yang terletak di Banyuwangi, Jawa Timur, Indonesia. Kawah ini terkenal akan fenomena blue fire yang terjadi di dalamnya pada malam hari. Kawah Ijen juga memiliki danau asam yang berwarna hijau tosca yang sangat indah. Pendakian ke kawah ini menjadi salah satu aktivitas wisata yang populer di Jawa Timur.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/pura_agung_besakih</item>
+        <item>@drawable/kepulauan_derawan</item>
+        <item>@drawable/taman_nasional_way_kambas</item>
+        <item>@drawable/pantai_parai_tenggiri</item>
+        <item>@drawable/nusa_dua</item>
+        <item>@drawable/gunung_rinjani</item>
+        <item>@drawable/danau_toba</item>
+        <item>@drawable/nusa_penida</item>
+        <item>@drawable/taman_laut_bunaken</item>
+        <item>@drawable/wakatobi</item>
+        <item>@drawable/kepulauan_raja_ampat</item>
+        <item>@drawable/gunung_bromo</item>
+        <item>@drawable/pulau_komodo</item>
+        <item>@drawable/candi_borobudur</item>
+        <item>@drawable/tana_toraja</item>
+        <item>@drawable/gili_trawangan</item>
+        <item>@drawable/goa_gong</item>
+        <item>@drawable/danau_kelimutu</item>
+        <item>@drawable/ngarai_sianok</item>
+        <item>@drawable/kawah_ijen</item>
+    </integer-array>
+</resources>
