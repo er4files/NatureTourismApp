@@ -20,7 +20,7 @@ Nature Tourism is an Android-based tourism application that provides comprehensi
 
 ## Screenshots
 
-<img src="2.png" width="200"> <img src="4.png" width="200"> <img src="3.png" width="200">
+<img src="3.png" width="200"> <img src="2.png" width="200"> <img src="4.png" width="200">
 
 ## Developer
 
